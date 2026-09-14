@@ -2,6 +2,12 @@
 
 This is a C# ASP.NET Core web application that converts a dollar amount into it's written word form
 
+## Supporting documentation
+Below are links to the relavent supporting documentation:
+- The test plan can be found [here](https://github.com/LunaMcConn/Luna2026TechTest/blob/main/Test/HelloWorldWeb/TestPlan.md)
+- The design documentation can be found [here](https://github.com/LunaMcConn/Luna2026TechTest/blob/main/Test/HelloWorldWeb/DesignDocument.md)
+
+
 ## Requirements
 To build this project, you will need to have:
 - .NET 9.0 SDK x64, which you can download [here](https://dotnet.microsoft.com/en-us/download)
