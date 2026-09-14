@@ -1,17 +1,44 @@
-This is a C# ASP.NET Core web application
+# Numbers to Words Converter
 
-To build this project, you will need to have .NET 9.0 SDK x64 downloaded:
-https://dotnet.microsoft.com/en-us/download
+This is a C# ASP.NET Core web application that converts a dollar amount into it's written word form
 
-After extracting the file and setting up .NET 9.0 SDK x64, navigate to the HelloWordlWeb directory in the terminal. 
-like: cd HelloWorldWeb
+## Requirements
+To build this project, you will need to have:
+- .NET 9.0 SDK x64, which you can download [here](https://dotnet.microsoft.com/en-us/download)
+- and a web browser
 
-After that type dotnet run. Then click the localhost link provided in the terminal, or navigate to local host in the web browser, and the program should appear there.
+## Setup Steps
+1. Extract the files and open your terminal
 
+2. Navigate to the HelloWordlWeb directory, like:
+```bash
+cd HelloWorldWeb
+```
+
+3. Run the app, like:
+```bash
+dotnet run
+```
+
+4. The server should now start, open the link shown in the terminal, or manually type the address into your web browser. This is the usual link, however the port may be different so make sure to use the link printed in the terminal
+```
 http://localhost:5147/
+```
 
-Then type in any dollar amount and click convert or enter and the written-out version of your amount will appear below.
+## How to use
+1. Enter any dollar amount up to 2 decimals into the input field
+2. Click the convert button or press enter
+3. The written word version of your amount will appear below.
 
-Negative numbers are supported and will be prefixed with "NEGATIVE".
+### Example
 
-Supported range is up to 999999999999999999999999999 and down to -999999999999999999999999999. Entering a number outside this range will show an error message asking you to choose a number within range. 
+**Input:** `123.45`
+
+**Output:** `ONE HUNDRED AND TWENTY-THREE DOLLARS AND FORTY-FIVE CENTS`
+
+
+### Notes
+
+- Negative numbers are supported and will be prefixed with "NEGATIVE".
+
+- Supported range is up to 999999999999999999999999999 and down to -999999999999999999999999999. Entering a number outside this range will show an error message asking you to choose a number within range. 
