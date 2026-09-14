@@ -59,3 +59,4 @@ C:\Users\niamh\Downloads\LunaMcConn_Tech1TechTest\Test\HelloWorldWeb\obj\Debug\n
 C:\Users\niamh\Downloads\LunaMcConn_Tech1TechTest\Test\HelloWorldWeb\obj\Debug\net9.0\ref\HelloWorldWeb.dll
 C:\Users\niamh\Downloads\LunaMcConn_Tech1TechTest\Test\HelloWorldWeb\obj\Debug\net9.0\compressed\g5et7r7e6o-{0}-wrk6qn6tm6-wrk6qn6tm6.gz
 C:\Users\niamh\Downloads\LunaMcConn_Tech1TechTest\Test\HelloWorldWeb\obj\Debug\net9.0\compressed\8t5vqva3sw-{0}-tjveubncr9-tjveubncr9.gz
+C:\Users\niamh\Downloads\LunaMcConn_Tech1TechTest\Test\HelloWorldWeb\obj\Debug\net9.0\HelloWorldWeb.sourcelink.json

@@ -42,4 +42,4 @@ TC-24, Rounding number 2, 10.025, TEN DOLLARS AND TWO CENTS
 
 
 How to run:
-To run the test naviagte to the test directory (HelloWorldWeb.Tests) and then enter "dotnet test"
+To run the test navigate to the test directory (HelloWorldWeb.Tests) and then enter "dotnet test"

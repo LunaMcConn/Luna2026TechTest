@@ -413,3 +413,4 @@ C:\Users\niamh\Downloads\LunaMcConn_Tech1TechTest\Test\HelloWorldWeb.Tests\obj\D
 C:\Users\niamh\Downloads\LunaMcConn_Tech1TechTest\Test\HelloWorldWeb.Tests\obj\Debug\net9.0\HelloWorldWeb.Tests.pdb
 C:\Users\niamh\Downloads\LunaMcConn_Tech1TechTest\Test\HelloWorldWeb.Tests\obj\Debug\net9.0\HelloWorldWeb.Tests.genruntimeconfig.cache
 C:\Users\niamh\Downloads\LunaMcConn_Tech1TechTest\Test\HelloWorldWeb.Tests\obj\Debug\net9.0\ref\HelloWorldWeb.Tests.dll
+C:\Users\niamh\Downloads\LunaMcConn_Tech1TechTest\Test\HelloWorldWeb.Tests\obj\Debug\net9.0\HelloWorldWeb.Tests.sourcelink.json
